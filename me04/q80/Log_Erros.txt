@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "c:\Users\beuth\OneDrive\TI\Unit\3°período\Py_lab\MEs\ME04\me04\q80\main.py", line 23, in registrar_venda
+    raise ProdutoInvalidoError
+ProdutoInvalidoError: O nome do produto nao pode estar vazio
+
+Traceback (most recent call last):
+  File "c:\Users\beuth\OneDrive\TI\Unit\3°período\Py_lab\MEs\ME04\me04\q80\main.py", line 23, in registrar_venda
+    raise ProdutoInvalidoError
+ProdutoInvalidoError: O nome do produto nao pode estar vazio
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\beuth\OneDrive\TI\Unit\3°período\Py_lab\MEs\ME04\me04\q80\main.py", line 23, in registrar_venda
+    raise ProdutoInvalidoError
+ProdutoInvalidoError: O nome do produto nao pode estar vazio

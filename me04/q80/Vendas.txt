@@ -1,0 +1,3 @@
+[[], [{'produto': 'oculos', 'preco': 34.0, 'quantidade': 15}]]
+[[{'produto': 'banana', 'preco': 23.0, 'quantidade': 27}]]
+[[{'produto': 'chocolate', 'preco': 23.0, 'quantidade': 156}, {'produto': 'macarrao', 'preco': 67.0, 'quantidade': 567}, {'produto': 'esponja', 'preco': 677.0, 'quantidade': 152}]]
